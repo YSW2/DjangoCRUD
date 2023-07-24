@@ -142,7 +142,7 @@ ul.posts {
   flex-direction: column;
   margin: 0 auto;
   max-width: 960px;
-  padding: 0 20px; }
+  padding: 60px 20px 0px; }
   ul.posts > li.post {
     display: flex;
     flex-direction: column;
@@ -161,7 +161,7 @@ ul.posts {
       overflow: hidden; }
     ul.posts > li.post img {
       position: absolute;
-      top: 17px;
+      top: 0;
       right: 0;
       width: 120px;
       height: 120px;
